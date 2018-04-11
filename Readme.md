@@ -1,3 +1,4 @@
 
 Notes and assignments for Stanford CS class [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
 
+My personal practice of cs231n
